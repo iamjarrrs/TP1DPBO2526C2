@@ -86,8 +86,6 @@ Program terdiri dari 1 class, yaitu Film yang terdiri dari atribut berikut:
     <img src="Dokumentasi/PHP/PHP1.png" style="width: 32%;">
     <img src="Dokumentasi/PHP/PHP2.png" style="width: 32%;">
     <img src="Dokumentasi/PHP/PHP3.png" style="width: 32%;">
-    <img src="Dokumentasi/PHP/PHP4.png" style="width: 32%;">
-    <img src="Dokumentasi/PHP/PHP5.png" style="width: 32%;">
 </div>
 
 ## Python
