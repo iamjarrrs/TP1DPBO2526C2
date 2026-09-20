@@ -5,15 +5,6 @@ Saya Afit Fajar dengan NIM 2501826 mengerjakan Tugas Praktikum 1 pada Mata Kulia
 ## Struktur File
 
 ```text
-# Janji
-
-Saya Afit Fajar dengan NIM 2501826 mengerjakan Tugas Praktikum 1 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
-
----
-
-## Struktur File
-
-```text
 TP1DPBO2526C2/
 ├── c++/
 │   ├── Film.cpp
