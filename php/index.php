@@ -5,8 +5,8 @@ session_start();
 // Inisialisasi data dummy ke dalam session jika belum ada
 if (!isset($_SESSION['daftarFilm'])) {
     $_SESSION['daftarFilm'] = [
-        new Film(1, "Interstellar", "Sci-Fi", "169"),
-        new Film(2, "Inception", "Action", "148")
+        new Film(1, "Spider-Man: Brand New Day", "Action", "145"),
+        new Film(2, "Ghost In The Cell", "Horor/Komedi", "107")
     ];
 }
 
